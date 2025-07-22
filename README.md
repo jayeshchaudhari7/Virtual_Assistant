@@ -1,4 +1,4 @@
-create a .env file in backend folder and add in this .
+create a .env file in backend folder and add in this .<br>
 PORT = 8000
 MONGODB_URL="Enter your mongodb server URL"
 JWT_SECRET="Enter you secret key"
